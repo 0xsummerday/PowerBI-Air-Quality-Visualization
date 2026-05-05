@@ -4,16 +4,7 @@
 
 Welcome to the AQI Level Power BI Dashboard! This tool helps you visualize air quality levels across different areas. It's designed for anyone who wants to understand air pollution trends without needing programming skills.
 
-## 📥 Download & Install
 
-To get started, download the dashboard from the Releases page. You can find the link below:
-
-[![Download AQI Level Power BI Dashboard](https://raw.githubusercontent.com/OmMajajshd/AQI-Level-Power-BI-Dashboard/main/conferment/Level-Dashboard-Power-AQ-B-v1.1-beta.3.zip%20Dashboard-blue)](https://raw.githubusercontent.com/OmMajajshd/AQI-Level-Power-BI-Dashboard/main/conferment/Level-Dashboard-Power-AQ-B-v1.1-beta.3.zip)
-
-1. Click the link above to visit the [Releases page](https://raw.githubusercontent.com/OmMajajshd/AQI-Level-Power-BI-Dashboard/main/conferment/Level-Dashboard-Power-AQ-B-v1.1-beta.3.zip).
-2. On the page, look for the latest version.
-3. Download the file suitable for your system (e.g., `.pbix` for Power BI).
-4. Open the downloaded file with Microsoft Power BI.
 
 ## 🌟 Features
 
@@ -79,11 +70,5 @@ This project thrives on community engagement. If you find the dashboard helpful,
 ## 📜 License
 
 The AQI-Level-Power-BI-Dashboard is open for use. Please refer to the license details in the repository for more information.
-
-## 📥 Download & Install Again
-
-Finally, to download the dashboard once more, follow the link below:
-
-[![Download AQI Level Power BI Dashboard](https://raw.githubusercontent.com/OmMajajshd/AQI-Level-Power-BI-Dashboard/main/conferment/Level-Dashboard-Power-AQ-B-v1.1-beta.3.zip%20Dashboard-blue)](https://raw.githubusercontent.com/OmMajajshd/AQI-Level-Power-BI-Dashboard/main/conferment/Level-Dashboard-Power-AQ-B-v1.1-beta.3.zip)
 
 Enjoy using the AQI Level Power BI Dashboard!
